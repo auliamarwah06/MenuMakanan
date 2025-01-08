@@ -6,9 +6,9 @@ package tubesss;
 
 /**
  *
- * @author LENOVO
+ * @author aulia marwah kandari
  */
-// Inheritance: Membuat kelas spesifik untuk MenuMakanan
+
 class MenuMakanan extends Menu {
 
     public MenuMakanan(String nama, int harga) {
