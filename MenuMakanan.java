@@ -6,9 +6,8 @@ package tubesss;
 
 /**
  *
- * @author aulia marwah kandari
+ * @author Aulia Marwah K
  */
-
 class MenuMakanan extends Menu {
 
     public MenuMakanan(String nama, int harga) {
